@@ -11,3 +11,5 @@ At the same time, the country is making significant strides towards a more susta
 Analyzing Sweden's electrical prices in Tableau was a fun little journey, but also a challenging one. As someone who's used to working with Power BI, I had to put in extra effort to learn and navigate a new tool.
 
 That said, I'm happy with the results we were able to achieve and the insights we uncovered.
+
+If any questions arise, @ me.
