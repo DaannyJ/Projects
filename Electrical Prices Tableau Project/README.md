@@ -1,5 +1,7 @@
 # ⚡ Swedens Electrical Prices in Tableau Project
 
+Link to dashboard: https://daannyj.github.io/Projects/
+
 As Sweden continues its transition to renewable energy, electrical prices are a hot topic of conversation. Recently, we decided to take a closer look at these prices by visualizing them in Tableau.
 
 What we found was quite interesting. As you can see in the graph below, the average price of electricity in Sweden has been steadily rising over the past few years.
