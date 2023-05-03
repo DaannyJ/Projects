@@ -15,3 +15,4 @@ Analyzing Sweden's electrical prices in Tableau was a fun little journey, but al
 That said, I'm happy with the results we were able to achieve and the insights we uncovered.
 
 If any questions arise, @ me.
+![Screenshot 2023-04-28 094358](https://user-images.githubusercontent.com/73342132/235900802-1a5dc712-369d-438b-aba7-772787816913.png)
