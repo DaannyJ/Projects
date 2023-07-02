@@ -1,3 +1,5 @@
+## Analyzing Newly Registered Cars in Sweden: An Electric Journey 🚗⚡️
+
 🚗 Analyzing Newly Registered Cars in Sweden: An Electric Journey 🌱
 
 I'm thrilled to share with you a project that I've been passionately working on—analyzing newly registered cars in Sweden, with a particular emphasis on electric vehicles (EVs). 📈⚡️
